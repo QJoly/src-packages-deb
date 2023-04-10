@@ -20,4 +20,4 @@ function build_deb {
 build_deb
 echo "All .deb are compiled."
 ARCH=$(dpkg --print-architecture)
-find . -iname "**${ARCH}.deb"
+find . -iname "**${ARCH}.deb" -exec dpkg -i {} \;
