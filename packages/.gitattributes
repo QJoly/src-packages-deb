@@ -1,0 +1,4 @@
+k9s/k9s_0.27.3-1_arm64/usr/bin/k9s filter=lfs diff=lfs merge=lfs -text
+k9s/k9s_0.27.3-1_amd64/usr/bin/k9s filter=lfs diff=lfs merge=lfs -text
+kompose/kompose_1.28.0-1_amd64/usr/bin/kompose filter=lfs diff=lfs merge=lfs -text
+kompose/kompose_1.28.0-1_arm64/usr/bin/kompose filter=lfs diff=lfs merge=lfs -text
