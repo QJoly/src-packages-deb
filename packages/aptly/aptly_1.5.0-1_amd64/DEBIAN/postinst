@@ -1,0 +1,4 @@
+#!/bin/sh
+PKG_NAME="aptly"
+PKG_CMD="aptly"
+echo "Installation of $PKG_NAME is complete. You can now run '$PKG_CMD'"
