@@ -1,0 +1,4 @@
+#!/bin/sh
+PKG_NAME="k9s"
+PKG_CMD="k9s"
+echo "Installation of $PKG_NAME is complete. You can now run '$PKG_CMD'"

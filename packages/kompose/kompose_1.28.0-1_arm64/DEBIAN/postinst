@@ -1,0 +1,13 @@
+#!/bin/sh
+PKG_NAME="kompose"
+PKG_CMD="kompose"
+echo "Installation of $PKG_NAME is complete. You can now run '$PKG_CMD'"
+#
+echo "# Bash (add to .bashrc for persistence)
+source <(kompose completion bash)
+
+# Zsh (add to .zshrc for persistence)
+source <(kompose completion zsh)
+
+# Fish autocompletion
+kompose completion fish | source"
