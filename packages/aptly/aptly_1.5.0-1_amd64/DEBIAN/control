@@ -1,0 +1,5 @@
+Package: aptly
+Version: 1.5.0
+Maintainer: Quentin JOLY <github@thoughtless.eu>
+Architecture: amd64
+Description: Aptly allows you to mirror remote repositories, manage local package repositories, take snapshots, pull new versions of packages along with dependencies, publish as Debian repository.
