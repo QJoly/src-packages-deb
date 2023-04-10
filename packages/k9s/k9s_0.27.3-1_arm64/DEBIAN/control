@@ -1,0 +1,5 @@
+Package: k9s
+Version: 0.27.3
+Maintainer: Quentin JOLY <github@thoughtless.eu>
+Architecture: arm64
+Description: K9s provides a terminal UI to interact with your Kubernetes clusters.
