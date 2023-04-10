@@ -1,4 +1,4 @@
-This Github project is a collection of packages for Debian.
+This Github project is a debian Package Collection.
 
 You can build each package with the following command:
 
