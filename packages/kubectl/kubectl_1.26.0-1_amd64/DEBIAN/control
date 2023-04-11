@@ -1,0 +1,5 @@
+Package: kubectl
+Version: 1.26.0
+Maintainer: Quentin JOLY <github@thoughtless.eu>
+Architecture: amd64
+Description: The Kubernetes command-line tool, kubectl, allows you to run commands against Kubernetes clusters.
