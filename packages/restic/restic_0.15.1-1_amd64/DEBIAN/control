@@ -1,0 +1,6 @@
+Package: restic
+Version: 0.15.1
+Maintainer: Quentin JOLY <github@thoughtless.eu>
+Architecture: amd64
+Description: Restic is a modern backup program that can back up your files: from Linux, BSD, Mac and Windows to many different storage types.
+
