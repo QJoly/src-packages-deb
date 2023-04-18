@@ -1,0 +1,5 @@
+Package: docker-compose
+Version: 3.6.2
+Maintainer: Quentin JOLY <github@thoughtless.eu>
+Architecture: arm64
+Description: Nova scans your cluster for installed Helm charts, then cross-checks them against all known Helm repositories. If it finds an updated version of the chart you're using, or notices your current version is deprecated, it will let you know.
