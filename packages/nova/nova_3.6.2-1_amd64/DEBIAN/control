@@ -1,4 +1,4 @@
-Package: docker-compose
+Package: nova
 Version: 3.6.2
 Maintainer: Quentin JOLY <github@thoughtless.eu>
 Architecture: amd64
